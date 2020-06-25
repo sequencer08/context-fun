@@ -1,4 +1,4 @@
-import { SET_USER, SET_USER_SUCCESS, SET_USER_FAILED } from '../reducers/user';
+import { SET_USER, SET_USER_SUCCESS } from '../reducers/user';
 
 // user actions
 const setUser = () => ({ type: SET_USER });
